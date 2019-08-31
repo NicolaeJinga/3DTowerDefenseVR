@@ -17,28 +17,28 @@ In this game, the player must defend the gate (which has its own HP) and enemies
 
 Menu of the game, with its three sub-menus: difficulty selection, level selection and input selection
 
-![](Screenshots/menu.png) =360x180
+![](Screenshots/menu.png =360x180)
 
 Button hints displayed at the start of the game
 
-![](Screenshots/buttonhints.png) =250x250
+![](Screenshots/buttonhints.png =250x250)
 
 The latest iteration of the UI, showing the current gold, the current gate's HP, and the three towers which can be built. The hammer icon above each one means that the player has enough gold to build it. The currently selected tower is in the middle, encircled by the golden ring.
 
-![](Screenshots/ui.png) =250x250
+![](Screenshots/ui.png =250x250)
 
 Player in action in Forest level, fighting against Wave 3.
 
-![](Screenshots/forest.png) =240x140
+![](Screenshots/forest.png =240x140)
 
 Desert level
 
-![](Screenshots/desert.png) =360x180
+![](Screenshots/desert.png =360x180)
 
 Player aiming at a tower-base to build the cannon tower. A ghost is shown in order to let the player know where and what type of tower he will build.
 
-![](Screenshots/build.png) =130x220
+![](Screenshots/build.png =130x220)
 
 Nova tower in action, AOE effect, sending red novas damaging all nearby enemies.
 
-![](Screenshots/nova.png) = 300x180
+![](Screenshots/nova.png = 300x180)
