@@ -17,7 +17,7 @@ In this game, the player must defend the gate (which has its own HP) and enemies
 
 Menu of the game, with its three sub-menus: difficulty selection, level selection and input selection
 
-![](Screenshots/menu.png =360x180)
+<img src="Screenshots/menu.png" width="250">
 
 Button hints displayed at the start of the game
 
