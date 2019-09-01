@@ -15,30 +15,30 @@ In this game, the player must defend the gate (which has its own HP) and enemies
 
 ## Screenshots
 
-Menu of the game, with its three sub-menus: difficulty selection, level selection and input selection
+#### Menu of the game, with its three sub-menus: difficulty selection, level selection and input selection
 
 <img src="Screenshots/menu.png" width="500">
 
-Button hints displayed at the start of the game
+#### Button hints displayed at the start of the game
 
 <img src="Screenshots/buttonhints.png" width="500">
 
-The latest iteration of the UI, showing the current gold, the current gate's HP, and the three towers which can be built. The hammer icon above each one means that the player has enough gold to build it. The currently selected tower is in the middle, encircled by the golden ring.
+#### The latest iteration of the UI, showing the current gold, the current gate's HP, and the three towers which can be built. The hammer icon above each one means that the player has enough gold to build it. The currently selected tower is in the middle, encircled by the golden ring.
 
 <img src="Screenshots/ui.png" width="500">
 
-Player in action in Forest level, fighting against Wave 3.
+#### Player in action in Forest level, fighting against Wave 3.
 
 <img src="Screenshots/forest.png" width="500">
 
-Desert level
+#### Desert level
 
 <img src="Screenshots/desert.png" width="500">
 
-Player aiming at a tower-base to build the cannon tower. A ghost is shown in order to let the player know where and what type of tower he will build.
+#### Player aiming at a tower-base to build the cannon tower. A ghost is shown in order to let the player know where and what type of tower he will build.
 
 <img src="Screenshots/build.png" width="500">
 
-Nova tower in action, AOE effect, sending red novas damaging all nearby enemies.
+#### Nova tower in action, AOE effect, sending red novas damaging all nearby enemies.
 
 <img src="Screenshots/nova.png" width="500">
